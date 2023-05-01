@@ -1,4 +1,4 @@
-# ![)  Swiper.js slider
+# Swiper.js slider
 
 ![slider](https://user-images.githubusercontent.com/93850511/235503578-5250a26c-9091-4516-8eec-24c5b7eff73f.png)
 
